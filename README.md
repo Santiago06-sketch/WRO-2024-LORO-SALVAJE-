@@ -1,5 +1,7 @@
 # WRO-2024-LORO-SALVAJE-
 
+ 
+ 
  World Robot Olimpiads que se llevo a cabo en Salta, significo una oportunidad para poner en juego nuestros conocimientos teóricos y llevarlos a la practica. Nos inscribimos con la expectativa de enriquecer nuestros conocimientos ya que este evento iba a contar con la participación de varios equipos de la provincia.
 Conformamos el equipo de trabajo como el reglamento exigía, con tres estudiantes y un docente orientador. fue un arduo trabajo desde el mes de junio, procurando cumplir con la planificación realizada, para llegar en condiciones optimas a la competencia.
 Comenzamos fabricando el chasis con materiales de nuestra institución tales como placas de metal y plástico, ajustándolo a las condiciones de peso y altura, sugeridas por la organización de la competencia. Luego se comenzó con el armado de la parte mecánica, diseñando, ajustando e instalando el motor para que le diera movimiento autónomo y el servo para la dirección del auto.
